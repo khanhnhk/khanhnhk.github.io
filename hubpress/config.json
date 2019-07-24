@@ -2,7 +2,8 @@
   "meta": {
     "username": "khanhnhk",
     "repositoryName": "khanhnhk.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "Khanh Nguyen's Blog",
+    "description": "A place to express myself",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "5",
+    "blogPath": "",
+    "googleAnalytics": "UA-144495411-1",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
