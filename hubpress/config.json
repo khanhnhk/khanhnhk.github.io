@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://khanhnhk.github.io",
     "hubpress": "https://khanhnhk.github.io",
-    "theme": "//khanhnhk.github.io/themes/casper",
+    "theme": "//khanhnhk.github.io/themes/uno",
     "images": "https://khanhnhk.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -40,16 +40,16 @@
     "disqus": ""
   },
   "socialnetwork": {
-    "email": "",
-    "github": "",
+    "email": "khanhnguyenqn2310@gmail.com",
+    "github": "https://github.com/khanhnhk",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/forest.wind.7",
     "googleplus": "",
     "instagram": "",
     "pinterest": "",
     "flickr": "",
-    "linkedin": "",
-    "stackoverflow": "",
+    "linkedin": "https://www.linkedin.com/in/khanh-nguyen-a54766b6/",
+    "stackoverflow": "https://stackoverflow.com/users/8269538/khanh-nguyen",
     "paypalme": "",
     "opencollective": ""
   },
